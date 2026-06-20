@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+
+# Downloaded challenge artifacts you may not want public
+# (uncomment if you keep raw DB/binary files locally)
+# *.db
+# *.sqlite
+
+# Scratch notes
+notes/
+*.tmp
