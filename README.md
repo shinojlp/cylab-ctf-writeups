@@ -4,6 +4,6 @@ Writeups for CTF challenges from CyLab Security Academy (formerly known as picoC
 
 ## Index
 
-| #   | Challenge | Category         | Difficulty |
-| --- | --------- | ---------------- | ---------- |
-| 1   | x         | Web Exploitation | Medium     |
+| #   | Challenge                 | Category         | Difficulty |
+| --- | ------------------------- | ---------------- | ---------- |
+| 1   | [No FA](./no-fa/no-fa.md) | Web Exploitation | Medium     |
